@@ -1,7 +1,5 @@
 FROM registry.access.redhat.com/rhel7
-#FROM registry.access.redhat.com/ubi7/ubi 
-#FROM rhel7:latest
-MAINTAINER <gautam@example.com>
+MAINTAINER <Mayur.Waghmode@ibm.com>
 LABEL name="happywebserver1" \
       vendor="Example Inc1" \
       version="1.0" \
